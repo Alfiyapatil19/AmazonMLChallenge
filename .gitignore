@@ -1,0 +1,13 @@
+.venv/
+.venv-1/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+*.sqlite3
+*.sqlite
+*.db
+output/
+
+train/*.tsv
+test/*.tsv
